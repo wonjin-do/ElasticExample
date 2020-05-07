@@ -1,0 +1,25 @@
+{
+   "data":[
+      {
+         "dimension":"http:\/\/demo.logger.co.kr",
+         "pageviews":367,
+         "visits":30,
+         "visitors":17,
+         "duration":7293
+      },
+      {
+         "dimension":"http:\/\/bizspring.co.kr",
+         "pageviews":9,
+         "visits":4,
+         "visitors":2,
+         "duration":71
+      },
+      {
+         "dimension":"http:\/\/demo11.logger.co.kr",
+         "pageviews":1,
+         "visits":1,
+         "visitors":1,
+         "duration":0
+      }
+   ]
+}

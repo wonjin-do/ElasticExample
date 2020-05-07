@@ -1,0 +1,1 @@
+{data=[{duration=7293, visits=30, visitors=17, pageviews=367, dimension=http://demo.logger.co.kr}, {duration=71, visits=4, visitors=2, pageviews=9, dimension=http://bizspring.co.kr}, {duration=0, visits=1, visitors=1, pageviews=1, dimension=http://demo11.logger.co.kr}]}
